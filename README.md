@@ -8,3 +8,7 @@ Steps to create this:
 - setup font (as per shadcn guide https://ui.shadcn.com/docs/installation/next)
 - `pnpx shadcn-ui@latest add button`
 - Done!
+
+To run this:
+
+- `pnpm install && pnpm dev --turbo`
